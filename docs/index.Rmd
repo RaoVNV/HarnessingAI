@@ -1,0 +1,61 @@
+---
+title: "Harnessing AI to Develop Students' Statistical Thinking: Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+# Project Contributors
+
+In alphabetical order: 
+
+- [Amos Jeng](https://amosjeng.com/) 
+- [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/)
+- [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/)
+- [Laura Bandi](https://laurambandi.com/)
+- [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/)
+- [Tiffany Reyes Denis](https://www.linkedin.com/in/reyesdenis/)
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+- [Xijin Ge](https://www.sdstate.edu/directory/xijin-ge)
+
+
+# Introduction to the Project
+
+In October 2022, OpenAI's ChatGPT3.0 took the world by storm. Since then, AI has seeped into seemingly every aspect of our personal and professional lives. As with any new powerful tool, AI has the potential to transform the way we live and work, but wielded inappropriately and it can also harm individuals and society. 
+
+We believe that AI tools *can* help students learn, especially statistics and data science, but may need guardrails to ensure students' don't outsource thinking (and therefore their learning) to the AI tool. Our project draws on design-based educational research methods to investigate how AI tools can best be incorporated into statistics and data science education. 
+
+
+# Current Status
+
+We have primarily focused thus far on students' creation and interpretation of multivariable data visualizations, and how AI tools can support both procedural fluency and conceptual understanding. We have established that: 
+
+- there is something of a minimum level of conceptual understanding students' must have for effective utilization of the AI tool 
+- utilizing the AI tool appears to suppport the development of students' conceptual understanding
+- exposure to the AI tool appears to support the development of students' interests and goals towards statistics and data science
+
+Our upcoming work will focus jointly on: 
+
+- design and evaluation of classroom activities
+- implementation of classroom activities
+- testing and comparison of AI-based activities to non-AI-based activities
+- evaluation of impacts of the activities on learning outcomes and associates
+
+
+# Presentations
+
+Gongati, S., Jeng, A., Drew, J.M., Kala, B., & Rao, V.N.V. (2025, July). *Students’ statistical thinking when using generative AI* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
+
+Kala, B., Bandi, L., Gongati, S., & Rao, V.N.V. (2025, July). *Can using AI tools to do statistics broaden participation in STEM?* [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA.
+
+Drew, J.M., Jeng, A., Reyes Denis, T., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
+
+Kala, B., Drew, J., Gongati, S., & Rao, V.N.V. (2024, May). *Computational Thinking with Data* [Oral Presentation]. University of Illnois Urbana-Champaign Undergraduate Research Experience in Statistics (URES) Symposium, Urbana, ILm USA.
+
+
+# Funding
+
+This work has been supported by a grant from the [University of Illinois Center for Social and Behavioral Sciences](https://csbs.research.illinois.edu/).
