@@ -53,7 +53,7 @@ Kala, B., Bandi, L., Gongati, S., & Rao, V.N.V. (2025, July). *Can using AI tool
 
 Drew, J.M., Jeng, A., Reyes Denis, T., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
-Kala, B., Drew, J., Gongati, S., & Rao, V.N.V. (2024, May). *Computational Thinking with Data* [Oral Presentation]. University of Illnois Urbana-Champaign Undergraduate Research Experience in Statistics (URES) Symposium, Urbana, ILm USA.
+Kala, B., Drew, J., Gongati, S., & Rao, V.N.V. (2024, May). *Computational Thinking with Data* [Oral Presentation]. University of Illnois Urbana-Champaign Undergraduate Research Experience in Statistics (URES) Symposium, Urbana, Illinois, USA.
 
 
 # Funding
