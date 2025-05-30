@@ -47,9 +47,9 @@ Our upcoming work will focus jointly on:
 
 # Presentations
 
-Gongati, S., Jeng, A., Drew, J.M., Kala, B., & Rao, V.N.V. (2025, July). *Students’ statistical thinking when using generative AI* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
+Gongati, S., Jeng, A., Drew, J.M., Kala, B., & Rao, V.N.V. (2025, July). [*Students’ statistical thinking when using generative AI*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Gongati%20et%20al.pdf) [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
-Kala, B., Bandi, L., Gongati, S., & Rao, V.N.V. (2025, July). *Can using AI tools to do statistics broaden participation in STEM?* [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA.
+Kala, B., Bandi, L., Gongati, S., & Rao, V.N.V. (2025, July). [*Can using AI tools to do statistics broaden participation in STEM?*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Kala%20et%20al.pdf) [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA.
 
 Drew, J.M., Jeng, A., Reyes Denis, T., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
