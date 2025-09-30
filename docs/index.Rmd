@@ -39,8 +39,7 @@ We have primarily focused thus far on students' creation and interpretation of m
 
 Our upcoming work will focus jointly on: 
 
-- design and evaluation of classroom activities
-- implementation of classroom activities
+- design, evaluation, and implementation of classroom activities
 - testing and comparison of AI-based activities to non-AI-based activities
 - evaluation of impacts of the activities on learning outcomes and associates
 
@@ -49,13 +48,22 @@ Our upcoming work will focus jointly on:
 
 Gongati, S., Jeng, A., Drew, J.M., Kala, B., & Rao, V.N.V. (2025, July). [*Students’ statistical thinking when using generative AI*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Gongati%20et%20al.pdf) [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
-Kala, B., Bandi, L., Gongati, S., & Rao, V.N.V. (2025, July). [*Can using AI tools to do statistics broaden participation in STEM?*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Kala%20et%20al.pdf) [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA.
+Kala, B., Bandi, L., & Rao, V.N.V. (2025, July). [*Can using AI tools to do statistics broaden participation in STEM?*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Kala%20et%20al.pdf) [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA.
 
-Drew, J.M., Jeng, A., Reyes Denis, T., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
+Kala, B., Drew, J.M., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
 Kala, B., Drew, J., Gongati, S., & Rao, V.N.V. (2024, May). *Computational Thinking with Data* [Oral Presentation]. University of Illnois Urbana-Champaign Undergraduate Research Experience in Statistics (URES) Symposium, Urbana, Illinois, USA.
 
 
+# Manuscripts
+
+Rao, V.N.V., Jeng, A., Drew, J.M., Kala, B., & Gongati, S. (under review). *Students' statistical thinking when using generative AI: A descriptive case study*. 
+
+Rao, V.N.V., & Ge, X. (in preparation). *Rtutor.AI: Marrying R to ChatGPT to support the development of students' statistical thinking*. 
+
+Rao, V.N.V., Bandi, L., & Kala, B. (in preparation). *Using AI tools to do statistics can broaden participation in STEM*. 
+
+
 # Funding
 
-This work has been supported by a grant from the [University of Illinois Center for Social and Behavioral Sciences](https://csbs.research.illinois.edu/).
+This work has been generously supported by a grant from the [University of Illinois Center for Social and Behavioral Sciences](https://csbs.research.illinois.edu/). In particular, we would like to thank Kaylee Lukacena for support on this project. 
