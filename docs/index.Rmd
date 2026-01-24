@@ -13,14 +13,20 @@ library(rmdformats)
 In alphabetical order: 
 
 - [Amos Jeng](https://amosjeng.com/) 
-- [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/)
-- [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/)
 - [Laura Bandi](https://laurambandi.com/)
-- [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/)
 - [Tiffany Reyes Denis](https://www.linkedin.com/in/reyesdenis/)
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 - [Xijin Ge](https://www.sdstate.edu/directory/xijin-ge)
 
+Undergraduate RAs: 
+
+- [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/) (Phase 1: task design, interviewing, transcription, qualitative coding, structural equation modeling)
+- [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/) (Phase 1: task design, interviewing, transcription, qualitative coding, classroom resources design)
+- [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/) (Phase 1: task design, interviewing, transcription, qualitative coding)
+- [Preetha Manjunath](http://linkedin.com/in/preetha-manjunath) (Phase 2a: transcription)
+- [Jasmin Zepeda]() (Phase 2a: transcription)
+- [Pavitra Shankar](https://www.linkedin.com/in/pavitra-s-184b17309/) (Phase 2b: UI/UX survey design, exploratory data analysis)
+- [Rayhan Driver]() (Phase 2b: classroom resources design)
 
 # Introduction to the Project
 
@@ -34,7 +40,7 @@ We believe that AI tools *can* help students learn, especially statistics and da
 We have primarily focused thus far on students' creation and interpretation of multivariable data visualizations, and how AI tools can support both procedural fluency and conceptual understanding. We have established that: 
 
 - there is something of a minimum level of conceptual understanding students' must have for effective utilization of the AI tool 
-- utilizing the AI tool appears to suppport the development of students' conceptual understanding
+- utilizing the AI tool appears to support the development of students' conceptual understanding
 - exposure to the AI tool appears to support the development of students' interests and goals towards statistics and data science
 
 Our upcoming work will focus jointly on: 
@@ -43,26 +49,29 @@ Our upcoming work will focus jointly on:
 - testing and comparison of AI-based activities to non-AI-based activities
 - evaluation of impacts of the activities on learning outcomes and associates
 
+# Publications
+
+Rao, V. N. V., Jeng, A., Drew, J., Kala, B., & Gongati, S. (2026). Students’ Statistical Thinking When Using Generative AI: A Descriptive Case Study. *Journal of Statistics and Data Science Education*, 1–12. [https://doi.org/10.1080/26939169.2025.2596684](https://doi.org/10.1080/26939169.2025.2596684) 
+
 
 # Presentations
+
+Kala, B., Drew, J.M., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
 Gongati, S., Jeng, A., Drew, J.M., Kala, B., & Rao, V.N.V. (2025, July). [*Students’ statistical thinking when using generative AI*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Gongati%20et%20al.pdf) [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
 
 Kala, B., Bandi, L., & Rao, V.N.V. (2025, July). [*Can using AI tools to do statistics broaden participation in STEM?*](https://github.com/RaoVNV/HarnessingAI/blob/main/URS%202025%20Kala%20et%20al.pdf) [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA.
 
-Kala, B., Drew, J.M., & Rao, V.N.V. (2025, July). *Rtutor.AI Labs: Incorporating AI into Introductory Statistics* [Poster Presentation]. United States Conference on Teaching Statistics (USCOTS), Ames, Iowa, USA.
-
 Kala, B., Drew, J., Gongati, S., & Rao, V.N.V. (2024, May). *Computational Thinking with Data* [Oral Presentation]. University of Illnois Urbana-Champaign Undergraduate Research Experience in Statistics (URES) Symposium, Urbana, Illinois, USA.
 
 
-# Manuscripts
+# Manuscripts in Preparation
 
-Rao, V.N.V., Jeng, A., Drew, J.M., Kala, B., & Gongati, S. (under review). *Students' statistical thinking when using generative AI: A descriptive case study*. 
-
-Rao, V.N.V., & Ge, X. (in preparation). *Rtutor.AI: Marrying R to ChatGPT to support the development of students' statistical thinking*. 
+Rao, V.N.V., & Ge, X. (in preparation). *Rtutor: Marrying R to ChatGPT to support the development of students' statistical thinking*. 
 
 Rao, V.N.V., Bandi, L., & Kala, B. (in preparation). *Using AI tools to do statistics can broaden participation in STEM*. 
 
+Reyes-Denis, T., Rao, V.N.V., & Jeng, A. (in preparation). *R vs. AI: A comparative descriptive case study of students' statistical thinking*. 
 
 # Funding
 
