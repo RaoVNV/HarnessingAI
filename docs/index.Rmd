@@ -13,20 +13,19 @@ library(rmdformats)
 In alphabetical order: 
 
 - [Amos Jeng](https://amosjeng.com/) 
+- [Jenna Thorstenson](https://www.orditus.com/about-us-2/)
 - [Laura Bandi](https://laurambandi.com/)
 - [Tiffany Reyes Denis](https://www.linkedin.com/in/reyesdenis/)
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 - [Xijin Ge](https://www.sdstate.edu/directory/xijin-ge)
+
 
 Undergraduate RAs: 
 
 - [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/) (Phase 1: task design, interviewing, transcription, qualitative coding, structural equation modeling)
 - [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/) (Phase 1: task design, interviewing, transcription, qualitative coding, classroom resources design)
 - [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/) (Phase 1: task design, interviewing, transcription, qualitative coding)
-- [Preetha Manjunath](http://linkedin.com/in/preetha-manjunath) (Phase 2a: transcription)
-- [Jasmin Zepeda]() (Phase 2a: transcription)
-- [Pavitra Shankar](https://www.linkedin.com/in/pavitra-s-184b17309/) (Phase 2b: UI/UX survey design, exploratory data analysis)
-- [Rayhan Driver]() (Phase 2b: classroom resources design)
+- [Pavitra Shankar](https://www.linkedin.com/in/pavitra-s-184b17309/) (Phase 2: student-centered design, survey development, data analysis, requirement gathering, software usability testing)
 
 # Introduction to the Project
 
@@ -67,7 +66,7 @@ Kala, B., Drew, J., Gongati, S., & Rao, V.N.V. (2024, May). *Computational Think
 
 # Manuscripts in Preparation
 
-Rao, V.N.V., & Ge, X. (in preparation). *Rtutor: Marrying R to ChatGPT to support the development of students' statistical thinking*. 
+Rao, V.N.V., Ge, X., & Shankar, P. (under review). *Rtutor: Marrying R to ChatGPT to support the development of students' statistical thinking*. 
 
 Rao, V.N.V., Bandi, L., & Kala, B. (in preparation). *Using AI tools to do statistics can broaden participation in STEM*. 
 
